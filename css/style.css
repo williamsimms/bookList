@@ -12,3 +12,18 @@ html {
     box-sizing: border-box;
     font-size: 62.5%;
 }
+
+.success,
+.error {
+    color: white;
+    padding: .5rem;
+    margin: .5rem 0 1.5rem 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
